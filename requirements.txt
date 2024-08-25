@@ -1,0 +1,4 @@
+xlsxwriter
+yfinance
+os
+pandas
